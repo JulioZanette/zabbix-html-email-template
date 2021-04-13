@@ -14,10 +14,16 @@ Zabbix 4.4 and up
 ## Customization
 
 Basically you can customize anything on these HTML templates, from the Logo, Trigger/Host Information, Colours, footer. The only limitation is your HTML and Design Skills :)
+
 - [html-online](https://html-online.com/editor/)
 - [devexpress](https://demos.devexpress.com/ASPxHtmlEditorDemos/Features/General.aspx)
 
-![problem](https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Problem.png) ![recovery](https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Recovery.png)
+### Sample - HTML Template
+<img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Problem.png" width="350"> <img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Recovery.png" height="400">
+
+### Result - Demo Trigger
+<img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Demo-Problem.png" width="350"> <img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Demo%20-%20Recovery.png" width="350">
+
 ## Installation
 
 ---
