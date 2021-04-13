@@ -1,4 +1,4 @@
-# zabbix-html-email-template
+# zabbix-customizable-html-email-template
 
 ### Customizable Zabbix HTML Email Template - Problem/Recovery
 
