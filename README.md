@@ -13,10 +13,12 @@ Zabbix 4.4 and up
 
 ## Customization
 
-Basically you can customize anything on these HTML templates, from the Logo, Trigger/Host Information, Colours, footer. The only limitation is your HTML and Design Skills :)
+Basically you can customize anything on these HTML templates, from the Logo, Trigger/Host Information, Colours, footer. The only limitation is your HTML or Design Skills :)
 
 - [html-online](https://html-online.com/editor/)
 - [devexpress](https://demos.devexpress.com/ASPxHtmlEditorDemos/Features/General.aspx)
+
+Check "Templates" directory for the HTML Templates
 
 ### Sample - HTML Template
 <img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Problem.png" width="350"> <img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Recovery.png" height="400">
@@ -27,7 +29,15 @@ Basically you can customize anything on these HTML templates, from the Logo, Tri
 ## Installation
 
 ---
-Installation is simple. From Zabbix WebUI, go to `Administration > Media Types > Email (HTML)` and update the `Message Templates` "Problem" and "Problem Recovery"
+Installation is simple. From Zabbix WebUI, go to `Administration > Media Types > Email (HTML)`
+
+<img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/MidiaType.jpeg" width="350">
+
+Update the `Message Templates` "Problem" and "Problem Recovery"
+
+<img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/MidiaType_Problem.jpeg" width="500"> <img src="https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/MidiaType_Recovery.jpeg" width="500">
+
+
 
 For more details on Zabbix Media Type configuration, please refer to: [MEDIA TYPES](https://www.zabbix.com/documentation/4.4/manual/config/notifications/media)
 
