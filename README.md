@@ -17,7 +17,7 @@ Basically you can customize anything on these HTML templates, from the Logo, Tri
 - [html-online](https://html-online.com/editor/)
 - [devexpress](https://demos.devexpress.com/ASPxHtmlEditorDemos/Features/General.aspx)
 
-![problem](images/Problem.png) ![recovery](images/Recovery.png)
+![problem](https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Problem.png) ![recovery](https://raw.githubusercontent.com/JulioZanette/zabbix-html-email-template/main/Images/Recovery.png)
 ## Installation
 
 ---
