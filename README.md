@@ -21,9 +21,7 @@ Basically you can customize anything on these HTML templates, from the Logo, Tri
 ## Installation
 
 ---
-Installation is simple, go to `Administration > Media Types > Email (HTML)`
-
-Update the `Message Templates` Problem / Recovery
+Installation is simple. From Zabbix WebUI, go to `Administration > Media Types > Email (HTML)` and update the `Message Templates` "Problem" and "Problem Recovery"
 
 For more details on Zabbix Media Type configuration, please refer to: [MEDIA TYPES](https://www.zabbix.com/documentation/4.4/manual/config/notifications/media)
 
