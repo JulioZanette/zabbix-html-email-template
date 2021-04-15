@@ -41,6 +41,11 @@ Update the `Message Templates` "Problem" and "Problem Recovery"
 
 For more details on Zabbix Media Type configuration, please refer to: [MEDIA TYPES](https://www.zabbix.com/documentation/4.4/manual/config/notifications/media)
 
+# ToDo
+
+---
+- Add link to Event Details
+- Add a Graph to the problematic item
 
 ---
 Inspired by: https://github.com/maand75/zabbix-htmlmailtemplates
